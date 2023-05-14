@@ -13,6 +13,7 @@ int main(void)
 		c = getch() ;
 		printf("%d\n",c) ;
 
+
 		if( c == 92 ) exit(0) ; // 백슬래시
 	}
 
